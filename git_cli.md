@@ -26,6 +26,17 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
     drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
+#### 5. Criando o aruivo markdow `git_cli.md`.
+    luciolemos@dev:~/nextlevelweek/react_project$ touch git_cli.md
+    luciolemos@dev:~/nextlevelweek/react_project$ ls -l
+    total 552
+    -rw-rw-r--    1 luciolemos luciolemos      0 abr 29 00:20 git_cli.md
+    drwxrwxr-x 1047 luciolemos luciolemos  36864 abr 29 00:14 node_modules
+    -rw-rw-r--    1 luciolemos luciolemos    817 abr 29 00:14 package.json
+    drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 public
+    -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
+    drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
+    -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
 #### 5. Inicializando o projeto criado com o git.
     luciolemos@dev:~/nextlevelweek/react_project$ git init
     Initialized empty Git repository in /home/luciolemos/nextlevelweek/react_project/.git/
@@ -57,6 +68,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     luciolemos@dev:~/nextlevelweek/react_project$ git branch -M main
 #### 9.     
     luciolemos@dev:~/nextlevelweek/react_project$ git remote add origin https://github.com/luciolemos/react_project.git
+#### 10
     luciolemos@dev:~/nextlevelweek/react_project$ git push -u origin main
     Username for 'https://github.com': luciolemos
     Password for 'https://luciolemos@github.com': 
@@ -69,6 +81,6 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     To https://github.com/luciolemos/react_project.git
     * [new branch]      main -> main
     Branch 'main' set up to track remote branch 'main' from 'origin'.
-#### 10. Carregando o projeto `react_project`no VSCode.
+#### 11. Carregando o projeto `react_project`no VSCode.
     luciolemos@dev:~/nextlevelweek/react_project$ code .
     
