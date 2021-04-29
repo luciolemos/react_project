@@ -10,6 +10,9 @@
     luciolemos@dev:~/nextlevelweek$ npx create-react-app react_project
     
 #### 2. Listando arquivos/diretórios dentro de `nextlevelweek` com o comando `ls -l`.
+Observa-se que o projeto `drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 react_project` foi adicionado à árvore de diretórios.
+
+
     luciolemos@dev:~/nextlevelweek$ ls -l
     total 16
     drwxrwxr-x  8 luciolemos luciolemos 4096 abr 27 17:29 podcastr
