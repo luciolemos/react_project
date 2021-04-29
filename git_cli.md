@@ -13,6 +13,8 @@
     luciolemos@dev:~/nextlevelweek$ cd react_project
 #### 4. Listando arquivos/diretorios:
 Observe que durante a criação do projeto `react_project` é gerado também o arquivo oculto `.gitignore`. 
+
+
     luciolemos@dev:~/nextlevelweek/react_project$ ls -la
     total 564
     drwxrwxr-x    5 luciolemos luciolemos   4096 abr 29 00:14 .
