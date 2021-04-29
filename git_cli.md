@@ -95,4 +95,10 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
 #### 13. Carregando o projeto `react_project`no VSCode.
     luciolemos@dev:~/nextlevelweek/react_project$ code .
 #### 14. Resumo
+    git init
+    git add .
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/luciolemos/react_project.git
+    git push -u origin main
     
