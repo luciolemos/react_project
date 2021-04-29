@@ -69,6 +69,6 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     To https://github.com/luciolemos/react_project.git
     * [new branch]      main -> main
     Branch 'main' set up to track remote branch 'main' from 'origin'.
-#### 10. Carregando projeto no VSCode.
+#### 10. Carregando o projeto `react_project`no VSCode.
     luciolemos@dev:~/nextlevelweek/react_project$ code .
     
