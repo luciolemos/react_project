@@ -28,6 +28,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
 #### 5. Criando o aruivo markdow `git_cli.md`.
     luciolemos@dev:~/nextlevelweek/react_project$ touch git_cli.md
+#### 6. Listando 
     luciolemos@dev:~/nextlevelweek/react_project$ ls -l
     total 552
     -rw-rw-r--    1 luciolemos luciolemos      0 abr 29 00:20 git_cli.md
@@ -37,12 +38,12 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
     drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
-#### 5. Inicializando o projeto criado com o git.
+#### 7. Inicializando o projeto criado com o git.
     luciolemos@dev:~/nextlevelweek/react_project$ git init
     Initialized empty Git repository in /home/luciolemos/nextlevelweek/react_project/.git/
-#### 6. Adicionando o diretório corrente `react_project`ao repositório com o comando `add .`.
+#### 8. Adicionando o diretório corrente `react_project`ao repositório com o comando `add .`.
     luciolemos@dev:~/nextlevelweek/react_project$ git add .
-#### 7. Realizando o primeiro commit.
+#### 9. Realizando o primeiro commit.
     luciolemos@dev:~/nextlevelweek/react_project$ git commit -m "first commit"
     [master (root-commit) 7717d09] first commit
     18 files changed, 11728 insertions(+)
@@ -64,11 +65,11 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     create mode 100644 src/reportWebVitals.js
     create mode 100644 src/setupTests.js
     create mode 100644 yarn.lock
-#### 8.    
+#### 10.    
     luciolemos@dev:~/nextlevelweek/react_project$ git branch -M main
-#### 9.     
+#### 11.     
     luciolemos@dev:~/nextlevelweek/react_project$ git remote add origin https://github.com/luciolemos/react_project.git
-#### 10
+#### 12.
     luciolemos@dev:~/nextlevelweek/react_project$ git push -u origin main
     Username for 'https://github.com': luciolemos
     Password for 'https://luciolemos@github.com': 
@@ -81,6 +82,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     To https://github.com/luciolemos/react_project.git
     * [new branch]      main -> main
     Branch 'main' set up to track remote branch 'main' from 'origin'.
-#### 11. Carregando o projeto `react_project`no VSCode.
+#### 13. Carregando o projeto `react_project`no VSCode.
     luciolemos@dev:~/nextlevelweek/react_project$ code .
+#### 14. Resumo
     
