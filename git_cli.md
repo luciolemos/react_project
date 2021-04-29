@@ -26,10 +26,10 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
     drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
-#### 5. Inicializando com o git, o projeto criado
+#### 5. Inicializando o projeto criado com o git.
     luciolemos@dev:~/nextlevelweek/react_project$ git init
     Initialized empty Git repository in /home/luciolemos/nextlevelweek/react_project/.git/
-#### 6. Adicionando ao repositório `add .`, todo o projeto
+#### 6. Adicionando o diretório corrente `react_project`ao repositório com o comando `add .`.
     luciolemos@dev:~/nextlevelweek/react_project$ git add .
 #### 7. Realizando o primeiro commit.
     luciolemos@dev:~/nextlevelweek/react_project$ git commit -m "first commit"
