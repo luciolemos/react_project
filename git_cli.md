@@ -36,7 +36,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
     drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
-#### 5. Criando o aruivo markdow `git_cli.md`.
+#### 5. Criando o arquivo markdow `git_cli.md`.
     luciolemos@dev:~/nextlevelweek/react_project$ touch git_cli.md
 #### 6. Listando 
     luciolemos@dev:~/nextlevelweek/react_project$ ls -l
