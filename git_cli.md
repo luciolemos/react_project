@@ -51,7 +51,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
 #### 7. Inicializando o projeto criado com o git.
     luciolemos@dev:~/nextlevelweek/react_project$ git init
     Initialized empty Git repository in /home/luciolemos/nextlevelweek/react_project/.git/
-#### 8. Adicionando o diretório corrente `react_project`ao repositório com o comando `add .`.
+#### 8. Adicionando o diretório corrente `react_project`ao repositório local do GitHub, com o comando `add .`.
     luciolemos@dev:~/nextlevelweek/react_project$ git add .
 #### 9. Realizando o primeiro commit.
     luciolemos@dev:~/nextlevelweek/react_project$ git commit -m "first commit"
