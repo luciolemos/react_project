@@ -21,7 +21,7 @@ Observa-se que o projeto `drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 
     drwxrwxr-x  6 luciolemos luciolemos 4096 abr 24 13:53 restful
 #### 3. Navegando para a raiz do projeto criado:    
     luciolemos@dev:~/nextlevelweek$ cd react_project
-#### 4. Listando arquivos/diretorios:
+#### 4. Listando arquivos/diretorios (ocultos inclusive):
 Observe que durante a criação de `react_project` é gerado na raiz do projeto o arquivo oculto `.gitignore`. 
 
 
@@ -38,7 +38,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
 #### 5. Criando o arquivo markdow `git_cli.md`.
     luciolemos@dev:~/nextlevelweek/react_project$ touch git_cli.md
-#### 6. Listando 
+#### 6. Listando arquivos/diretórios na estrutura de `react_projects`, após a criação do arquivo `git_cli.md`.
     luciolemos@dev:~/nextlevelweek/react_project$ ls -l
     total 552
     -rw-rw-r--    1 luciolemos luciolemos      0 abr 29 00:20 git_cli.md
