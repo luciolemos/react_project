@@ -12,7 +12,7 @@
 #### 3. Navegando para a raiz do projeto criado:    
     luciolemos@dev:~/nextlevelweek$ cd react_project
 #### 4. Listando arquivos/diretorios:
-Observe que durante a criação do projeto `react_project` é gerado também o arquivo oculto `.gitignore`. 
+Observe que durante a criação de `react_project` é gerado na raiz do projeto o arquivo oculto `.gitignore`. 
 
 
     luciolemos@dev:~/nextlevelweek/react_project$ ls -la
