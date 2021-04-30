@@ -75,7 +75,7 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     create mode 100644 src/reportWebVitals.js
     create mode 100644 src/setupTests.js
     create mode 100644 yarn.lock
-#### 10. Indicando o ramo (_branch_)em que serão realizaas as alterações no projeto:   
+#### 10. Indicando o ramo (_branch_) em que serão realizaas as alterações no projeto:   
     luciolemos@dev:~/nextlevelweek/react_project$ git branch -M main
 #### 11.     
     luciolemos@dev:~/nextlevelweek/react_project$ git remote add origin https://github.com/luciolemos/react_project.git
