@@ -19,7 +19,7 @@ Observe que o projeto `drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 rea
     drwxrwxr-x 10 luciolemos luciolemos 4096 abr 20 07:14 podcastrnext
     drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 react_project
     drwxrwxr-x  6 luciolemos luciolemos 4096 abr 24 13:53 restful
-#### 3. Navegando para a raiz do projeto criado:    
+#### 3. Navegando até a raiz do projeto criado:    
     luciolemos@dev:~/nextlevelweek$ cd react_project
 #### 4. Listando arquivos/diretorios (ocultos inclusive):
 Observe que durante a criação de `react_project` é gerado na raiz do projeto o arquivo oculto `.gitignore`. 
