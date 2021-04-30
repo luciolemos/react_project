@@ -10,7 +10,7 @@
     luciolemos@dev:~/nextlevelweek$ npx create-react-app react_project
     
 #### 2. Listando arquivos/diretórios dentro de `nextlevelweek` com o comando `ls -l`.
-Observa-se que o projeto `drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 react_project` foi adicionado à árvore de diretórios.
+Observe que o projeto `drwxrwxr-x  5 luciolemos luciolemos 4096 abr 29 00:14 react_project` foi adicionado à árvore de diretórios.
 
 
     luciolemos@dev:~/nextlevelweek$ ls -l
@@ -48,10 +48,10 @@ Observe que durante a criação de `react_project` é gerado na raiz do projeto 
     -rw-r--r--    1 luciolemos luciolemos   3362 abr 29 00:14 README.md
     drwxrwxr-x    2 luciolemos luciolemos   4096 abr 29 00:14 src
     -rw-rw-r--    1 luciolemos luciolemos 507735 abr 29 00:14 yarn.lock
-#### 7. Inicializando o projeto criado com o git.
+#### 7. Inicializando o projeto criado com o comando `git init`.
     luciolemos@dev:~/nextlevelweek/react_project$ git init
     Initialized empty Git repository in /home/luciolemos/nextlevelweek/react_project/.git/
-#### 8. Adicionando o diretório corrente `react_project`ao repositório local do GitHub, com o comando `add .`.
+#### 8. Adicionando o diretório corrente `react_project`ao repositório local do GitHub, com o comando `git add .`.
     luciolemos@dev:~/nextlevelweek/react_project$ git add .
 #### 9. Realizando o primeiro commit.
     luciolemos@dev:~/nextlevelweek/react_project$ git commit -m "first commit"
